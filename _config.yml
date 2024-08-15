@@ -1,5 +1,12 @@
+
+# Name of website
 title: Christian Gonzalez
-logo: assets/images/port_bust.jpg
+
+author: Chris
+
+logo: assets/img/port_bust.jpg
+round-logo: true
 #description: [ADD SMALL DESCRIPTION]
-show_downloads: true
+show_downloads: false
 theme:  jekyll-theme-minimal
+
