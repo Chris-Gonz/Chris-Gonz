@@ -2,11 +2,7 @@
 
 ---
 
----
-
 #### Technical Skills: Java, GO, Python, AWS, GCP, SQL/NoSql, Linux, Docker
-
----
 
 ---
 
@@ -40,10 +36,6 @@ integration of new vendor hardware
 ### [Simple GoLang Rest API KANBAN](https://github.com/Chris-Gonz/golang-REST) (In progress)
 
 - A simple Kanban application using Golang. Trying to stick to as little dependencies as possible. 
-### [Simple GoLang Rest API KANBAN](https://github.com/Chris-Gonz/golang-REST) (In progress)
-
-### [Fullstack Project](https://github.com/Chris-Gonz/aws_react) 
-- A simple Kanban application using Golang. Trying to stick to as little dependencies as possible.
 
 ### [Fullstack Project](https://github.com/Chris-Gonz/aws_react) - AWS / JavaScript / REACT / JAVA
   
