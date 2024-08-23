@@ -1,11 +1,12 @@
-
 # Name of website
+favicon: ''
+baseurl: '/Chris-Gonz'
 title: Christian Gonzalez
 
 author: Chris
 
 logo: assets/img/port_bust.jpg
-round-logo: true
+round-logo: false
 #description: [ADD SMALL DESCRIPTION]
 show_downloads: false
 theme:  jekyll-theme-minimal
