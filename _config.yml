@@ -1,11 +1,11 @@
 # Name of website
-favicon: assets/image/port_bust.jpg
+favicon: assets/image/IMG_2802.jpeg 
 baseurl: '/Chris-Gonz'
 title: Christian Gonzalez
 
 author: Chris
 
-logo: assets/image/port_bust.jpg
+logo: assets/image/IMG_2802.jpeg
 round-logo: true
 description: CVG
 show_downloads: true
