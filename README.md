@@ -2,7 +2,7 @@
 
 ---
 
-#### Technical Skills: Java, GO, Python, AWS, GCP, SQL/NoSql, Linux, Docker
+## Technical Skills: Java, GO, Python, AWS, GCP, SQL/NoSql, Linux, Docker
 
 ---
 
@@ -35,12 +35,11 @@ integration of new vendor hardware
 
 ### [Simple GoLang Rest API KANBAN](https://github.com/Chris-Gonz/golang-REST) (In progress)
 
-- A simple Kanban application using Golang. Trying to stick to as little dependencies as possible. 
+- A simple Kanban application using Golang. Trying to stick to as little dependencies as possible.
 
 ### [Fullstack Project](https://github.com/Chris-Gonz/aws_react) - AWS / JavaScript / REACT / JAVA
   
-FullStack project for learning purposes. Making majority from scratch with guidance from around the internet. Using AWS Elastic Beanstalk to create resource group. Docker to neatly bundle and deploy. React for the front end and Java for the backend. Using the Spring Framework work for most of the heavy lifting. Postgres database. Will implement the CI/CD using Github Actions. There is no set goal for this project other than further learning.  
-FullStack project for learning purposes. Making majority from scratch with guidance from around the internet. Using AWS Elastic Beanstalk to create resource group. Docker to neatly bundle and deploy. React for the front end and Java for the backend. Using the Spring Framework work for most of the heavy lifting. Postgres database. Will implement the CI/CD using Github Actions. There is no set goal for this project other than further learning.  
+- FullStack project for learning purposes. Making majority from scratch with guidance from around the internet. Using AWS Elastic Beanstalk to create resource group. Docker to neatly bundle and deploy. React for the front end and Java for the backend. Using the Spring Framework work for most of the heavy lifting. Postgres database. Will implement the CI/CD using Github Actions. There is no set goal for this project other than further learning.  
 
 <!--
 **Chris-Gonz/Chris-Gonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
