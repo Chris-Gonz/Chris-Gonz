@@ -1,11 +1,11 @@
 # Name of website
-favicon: assets/image/IMG_2802.jpeg 
+favicon: assets/image/sun.svg 
 baseurl: '/chris-gonz.github.io'
 title: Christian Gonzalez
 
 author: Chris
 
-logo: assets/image/IMG_2802.jpeg
+logo: assets/image/sun.svg
 round-logo: true
 description: CVG
 show_downloads: true
