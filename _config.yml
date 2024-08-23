@@ -5,8 +5,8 @@ title: Christian Gonzalez
 
 author: Chris
 
-logo: assets/img/port_bust.jpg
-round-logo: false
+logo: assets/image/port_bust.jpg
+round-logo: true
 #description: [ADD SMALL DESCRIPTION]
 show_downloads: false
 theme:  jekyll-theme-minimal
