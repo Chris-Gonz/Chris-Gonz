@@ -2,7 +2,11 @@
 
 ---
 
+---
+
 #### Technical Skills: Java, GO, Python, AWS, GCP, SQL/NoSql, Linux, Docker
+
+---
 
 ---
 
@@ -17,6 +21,7 @@ B.S., Computer Science | George Mason University (_May 2024_)
 - Developed and implemented automation scripts in Bash and Python, achieving a 20% reduction in manual tasks
 and enhancing accuracy by mitigating human error
 - Enhanced deployment processes by leveraging CI/CD pipelines, facilitating consistent microservices updates
+cross a enterprise server network with minimal disruption
 cross a enterprise server network with minimal disruption
 - Managed and optimized telemetry microservices using JAVA and GO for specialized zones, aiding in the seamless
 integration of new vendor hardware
@@ -34,10 +39,15 @@ integration of new vendor hardware
 
 ### [Simple GoLang Rest API KANBAN](https://github.com/Chris-Gonz/golang-REST) (In progress)
 
+- A simple Kanban application using Golang. Trying to stick to as little dependencies as possible. 
+### [Simple GoLang Rest API KANBAN](https://github.com/Chris-Gonz/golang-REST) (In progress)
+
+### [Fullstack Project](https://github.com/Chris-Gonz/aws_react) 
 - A simple Kanban application using Golang. Trying to stick to as little dependencies as possible.
 
 ### [Fullstack Project](https://github.com/Chris-Gonz/aws_react) - AWS / JavaScript / REACT / JAVA
   
+FullStack project for learning purposes. Making majority from scratch with guidance from around the internet. Using AWS Elastic Beanstalk to create resource group. Docker to neatly bundle and deploy. React for the front end and Java for the backend. Using the Spring Framework work for most of the heavy lifting. Postgres database. Will implement the CI/CD using Github Actions. There is no set goal for this project other than further learning.  
 FullStack project for learning purposes. Making majority from scratch with guidance from around the internet. Using AWS Elastic Beanstalk to create resource group. Docker to neatly bundle and deploy. React for the front end and Java for the backend. Using the Spring Framework work for most of the heavy lifting. Postgres database. Will implement the CI/CD using Github Actions. There is no set goal for this project other than further learning.  
 
 <!--
